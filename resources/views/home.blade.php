@@ -445,68 +445,6 @@
     </section>
 
 
- <!-- past event -->
-<!-- <section
-  id="home"
-  class="bg-background w-full h-[1200px] mt-20">
-  <h1 class="text-[44px] font-popins font-bold text-center">Past Events</h1>
-  <div id="event" class="flex flex-col md:flex-row justify-center items-center gap-14 text-white">
-    <img src="/assets/banner-event1.svg" alt="" class="w-[300px] h-[375px]" />
-    <div class="flex flex-col items-center md:items-start text-center md:text-left">
-      <p class="text-hijau">[About Conference]</p>
-      <h1 class="text-[20px] md:text-[24px] font-semibold font-popins text-black">
-        Transformational Sales Conference 2023
-      </h1>
-      <p class="text-[12px] md:text-[17px] font-normal font-popins text-black w-[370px] md:w-[800px] mt-8 ml-2 md:ml-0">
-        "Don't find customers for your products, find products for your customers." ~ Seth Godin
-      </p>
-      <p class="text-[12px] md:text-[17px] font-normal font-popins text-black w-[370px] md:w-[800px] mt-8 ml-2 md:ml-0">
-        It's crucial to adapt to the changing sales landscape in the digital age, and Seth Godin's quote emphasizes the importance of customer-centricity. Digital transformation has indeed shifted the focus towards online sales, but it's essential to remember that serving the customer's needs remains paramount. The Transformational Sales Conference sounds like a great opportunity to explore the evolving world of sales and learn how to provide excellent service in both online and offline contexts.
-      </p>
-      <div class="flex flex-col md:flex-row gap-[20px] md:gap-[31px] text-white mt-10 justify-center md:justify-start items-center">
-        <a href="{{ route('event-detail1') }}">
-          <p class="border bg-hijau py-[10px] px-[20px] rounded-xl text-center">
-            Read More
-          </p>
-        </a>
-        <a href="{{ route('event-feedback1') }}">
-          <p class="border bg-biru py-[10px] px-[20px] rounded-2xl text-center">
-            Add Your Feedback
-          </p>
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <div id="event" class="mt-10 flex flex-col md:flex-row justify-center items-center gap-14 text-white">
-    <img src="/assets/banner-event1.svg" alt="" class="w-[300px] h-[375px]" />
-    <div class="flex flex-col items-center md:items-start text-center md:text-left">
-      <p class="text-hijau">[About Conference]</p>
-      <h1 class="text-[20px] md:text-[24px] font-semibold font-popins text-black">
-        Transformational Sales Conference 2023
-      </h1>
-      <p class="text-[12px] md:text-[17px] font-normal font-popins text-black w-[370px] md:w-[800px] mt-8 ml-2 md:ml-0">
-        "Don't find customers for your products, find products for your customers." ~ Seth Godin
-      </p>
-      <p class="text-[12px] md:text-[17px] font-normal font-popins text-black w-[370px] md:w-[800px] mt-8 ml-2 md:ml-0">
-        It's crucial to adapt to the changing sales landscape in the digital age, and Seth Godin's quote emphasizes the importance of customer-centricity. Digital transformation has indeed shifted the focus towards online sales, but it's essential to remember that serving the customer's needs remains paramount. The Transformational Sales Conference sounds like a great opportunity to explore the evolving world of sales and learn how to provide excellent service in both online and offline contexts.
-      </p>
-      <div class="flex flex-col md:flex-row gap-[20px] md:gap-[31px] text-white mt-10 justify-center md:justify-start items-center">
-        <a href="{{ route('event-detail1') }}">
-          <p class="border bg-hijau py-[10px] px-[20px] rounded-xl text-center">
-            Read More
-          </p>
-        </a>
-        <a href="{{ route('event-feedback1') }}">
-          <p class="border bg-biru py-[10px] px-[20px] rounded-2xl text-center">
-            Add Your Feedback
-          </p>
-        </a>
-      </div>
-    </div>
-  </div>
-</section> -->
-
 
     <!-- Image Baner -->
     <div class="bg-white">
